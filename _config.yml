@@ -4,6 +4,7 @@ title: "UiTM Kedah Statistical Service Unit"
 #
 #   Navigation to the left › side: left
 #
+navigation:
 - title: "Home"
   url: "/"
   side: left
