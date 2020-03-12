@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 
 title: "UiTM Kedah Statistical Service Unit"
+
+navigation:
+  - title: "Home"
+    url: "/"
+    side: left
