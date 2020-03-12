@@ -1,17 +1,1 @@
-output:
-  html_document:
-    theme: sandstone
-    css: 'styles.css'
-
-title: "UiTM Kedah Statistical Service Unit"
-
-# NAVIGATION
-#====================================
-navbar:
-  title: " "
-  left:
-    - text: "Home"
-      href: index.html
-  right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
+theme: jekyl-theme-caymen
