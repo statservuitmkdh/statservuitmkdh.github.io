@@ -1,5 +1,7 @@
-theme: sandstone
-css: 'styles.css'
+output:
+  html_document:
+    theme: sandstone
+    css: 'styles.css'
 
 title: "UiTM Kedah Statistical Service Unit"
 
